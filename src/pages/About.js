@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 
-function About(props) {
+export default function About(props) {
   // create state to hold about data
   const [about, setAbout] = useState(null);
 
@@ -33,4 +33,4 @@ function About(props) {
   return about ? loaded() : <h1>Loading...</h1>;
 }
 
-export default About;
+
