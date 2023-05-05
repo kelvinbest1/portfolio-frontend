@@ -13,7 +13,7 @@
     },
     {
       "name": "DayCare Checkin",
-      "live": "<https://ancient-spire-95884.herokuapp.com>",
+      "live": "https://ancient-spire-95884.herokuapp.com",
       "git": "https://github.com/kelvinbest1/Childcare-Check-In.git",
       "image": "https://user-images.githubusercontent.com/60621382/233814504-a922322b-31ad-4936-a7dc-70317e8c06c6.png"
     }
