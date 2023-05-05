@@ -1,6 +1,6 @@
 [
     {
-      "name": "Sport Trvia Game",
+      "name": "Sport Trivia Game",
       "live": "<https://app.herokuapp.com/whatever>",
       "git": "<http://www.github.com/username/reponame>",
       "image": "<http://www.imgur.com/pictureofproject.png>"
@@ -15,7 +15,7 @@
       "name": "DayCare Checkin",
       "live": "<https://ancient-spire-95884.herokuapp.com>",
       "git": "<http://www.github.com/username/reponame>",
-      "image": "https://imgur.com/RpIyVT3"
+      "image": "<https://imgur.com/RpIyVT3>"
     }
   ]
   
